@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on open-source React projects.  
 🤔 I’m looking for help with improving type declarations in my TypeScript projects.  
 💬 Ask me about React, TypeScript, Tailwind CSS, and agile methodologies.  
-📫 How to reach me: [your email or social media handle]  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy playing football, eating great food, and studying new technologies in my spare time.
 
