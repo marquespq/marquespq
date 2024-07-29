@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on a UI library using React and TypeScript.  
+🔭 I’m currently working on a UI library using React, TypeScript and Tailwind.  
 🌱 I’m currently learning advanced machine learning techniques.  
 👯 I’m looking to collaborate on open-source React projects.  
 🤔 I’m looking for help with improving type declarations in my TypeScript projects.  
